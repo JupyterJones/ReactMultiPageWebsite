@@ -1,8 +1,4 @@
 import React from "react";
-// Assuming Halloween-900x400p.png is in the same folder as JS file ./
-import hallo from './Halloween-900x400p.png';
-
-// ...later
 
 function Home() {
   return (
@@ -12,7 +8,7 @@ function Home() {
           <div class="col-lg-7">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src={hallo} alt="halloween"
+              src="https://i1.wp.com/www.pngtosvg.com/wp-content/uploads/2018/09/SnappyGoat.jpg"
               alt=""
             />
           </div>

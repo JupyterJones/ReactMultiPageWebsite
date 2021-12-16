@@ -7,7 +7,7 @@ function Navigation() {
       <nav className="navbar navbar-expand navbar-dark bg-dark">
         <div className="container">
           <NavLink className="navbar-brand" to="/">
-            React Multi-Page Website
+            This is my first attempt at a multi-page Reactjs App.
           </NavLink>
           <div>
             <ul className="navbar-nav ml-auto">

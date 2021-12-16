@@ -1,22 +1,21 @@
 import React from "react";
-import pict from './images/Home.png';
-function Contact() {
+
+function About() {
   return (
-    <div className="contact">
+    <div className="about">
       <div class="container">
         <div class="row align-items-center my-5">
           <div class="col-lg-7">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src={pict} alt="My tiny home"
+              src="http://placehold.it/900x400"
               alt=""
             />
           </div>
           <div class="col-lg-5">
-            <h1 class="font-weight-light">Contact</h1>
+            <h1 class="font-weight-light">About</h1>
             <p>
-              Just stop by and pin a note to my front door. Remember the way it looks.
-               I have no address.
+              I am Jack Northrup, currently residing in The Philippines.
             </p>
           </div>
         </div>
@@ -25,4 +24,4 @@ function Contact() {
   );
 }
 
-export default Contact;
+export default About;
