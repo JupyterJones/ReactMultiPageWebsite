@@ -18,8 +18,7 @@ function Home() {
           </div>
           <div class="col-lg-5">
             <h1 class="font-weight-light">Home </h1>
-            <p>Because an image was needed I searched to find an online public domain picture.
-               This image came from a Google Search for public domain images. It was on the site https://www.pngtosvg.com/.
+            <p>This photo was taken at Halloween of the neighbor kids.  It was then processed with Krita to overlay and add effects.
             </p>
           </div>
         </div>
