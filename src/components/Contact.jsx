@@ -9,7 +9,6 @@ function Contact() {
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
               src={pict} alt="My tiny home"
-              alt=""
             />
           </div>
           <div class="col-lg-5">

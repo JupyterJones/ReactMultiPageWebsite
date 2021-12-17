@@ -9,7 +9,6 @@ function Blog() {
           <img
             class="img-fluid rounded mb-4 mb-lg-0"
             src={snake} alt="Snake.png"
-            alt=""
           />
         </div>
         <div class="col-lg-5">

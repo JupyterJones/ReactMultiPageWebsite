@@ -2,7 +2,8 @@ import React from "react";
 // Assuming Halloween-900x400p.png is in the same folder as JS file ./
 import hallo from './Halloween-900x400p.png';
 
-// ...later
+// Because an image was needed I searched to find an online public domain picture.
+// This image came from a Google Search for public domain images. It was on the site https://www.pngtosvg.com/.
 
 function Home() {
   return (
@@ -13,12 +14,11 @@ function Home() {
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
               src={hallo} alt="halloween"
-              alt=""
             />
           </div>
           <div class="col-lg-5">
             <h1 class="font-weight-light">Home </h1>
-            <p>This photo was taken at Halloween of the neighbor kids.  It was then processed with Krita to overlay and add effects.
+            <p>The photo was taken at Halloween of the neighbor kids.  It was then processed with Krita to overlay and add effects.
             </p>
           </div>
         </div>
